@@ -1,0 +1,5 @@
+{
+  "name": "AuraAR: Photorealistic Avatar AR",
+  "description": "AR application with photorealistic human avatars triggered by QR codes, featuring TTS and lip-sync.",
+  "requestFramePermissions": ["camera"]
+}
